@@ -1,0 +1,10 @@
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\bin\Debug\LibrarySearch.exe.config
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\bin\Debug\LibrarySearch.exe
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\bin\Debug\LibrarySearch.pdb
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.csprojResolveAssemblyReference.cache
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.Properties.Resources.resources
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.csproj.GenerateResource.Cache
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.csproj.CoreCompileInputs.cache
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.exe
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.pdb
+D:\迅雷下载\LibrarySearch-master\LibrarySearch-master\LibrarySearch\obj\Debug\LibrarySearch.BookContentForm.resources
