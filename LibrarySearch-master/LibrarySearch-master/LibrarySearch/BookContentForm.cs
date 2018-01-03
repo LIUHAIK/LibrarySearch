@@ -24,7 +24,7 @@ namespace LibrarySearch
             con.Open();
             using (SqlCommand cmd = con.CreateCommand())
             {
-                cmd.CommandText = "select catalogContent,preContent from catalog,preRead where catalog.ISBN=preRead.ISBN and preRead.ISBN='9787020038985';";
+                cmd.CommandText = "select catalogContent,preContent from dbo.BookPreConentView where ISBN='9787020038985';";
                 SqlDataReader readercatalog = cmd.ExecuteReader();
                 while (readercatalog.Read())
                 {

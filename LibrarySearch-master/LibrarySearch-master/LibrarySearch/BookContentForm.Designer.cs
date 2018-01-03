@@ -36,40 +36,44 @@
             // 
             // textBox_Catalog
             // 
-            this.textBox_Catalog.Location = new System.Drawing.Point(12, 59);
+            this.textBox_Catalog.Font = new System.Drawing.Font("宋体", 13.5F);
+            this.textBox_Catalog.Location = new System.Drawing.Point(12, 120);
             this.textBox_Catalog.Multiline = true;
             this.textBox_Catalog.Name = "textBox_Catalog";
             this.textBox_Catalog.ReadOnly = true;
             this.textBox_Catalog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox_Catalog.Size = new System.Drawing.Size(350, 522);
+            this.textBox_Catalog.Size = new System.Drawing.Size(502, 575);
             this.textBox_Catalog.TabIndex = 0;
             // 
             // textBox_preRead
             // 
-            this.textBox_preRead.Location = new System.Drawing.Point(368, 59);
+            this.textBox_preRead.Font = new System.Drawing.Font("宋体", 13.5F);
+            this.textBox_preRead.Location = new System.Drawing.Point(555, 120);
             this.textBox_preRead.Multiline = true;
             this.textBox_preRead.Name = "textBox_preRead";
             this.textBox_preRead.ReadOnly = true;
             this.textBox_preRead.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBox_preRead.Size = new System.Drawing.Size(373, 522);
+            this.textBox_preRead.Size = new System.Drawing.Size(503, 575);
             this.textBox_preRead.TabIndex = 1;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(107, 25);
+            this.textBox3.Font = new System.Drawing.Font("宋体", 16F);
+            this.textBox3.Location = new System.Drawing.Point(197, 34);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(106, 28);
+            this.textBox3.Size = new System.Drawing.Size(106, 44);
             this.textBox3.TabIndex = 2;
             this.textBox3.Text = "目录";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(524, 25);
+            this.textBox4.Font = new System.Drawing.Font("宋体", 16F);
+            this.textBox4.Location = new System.Drawing.Point(766, 34);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(100, 28);
+            this.textBox4.Size = new System.Drawing.Size(100, 44);
             this.textBox4.TabIndex = 3;
             this.textBox4.Text = "前言";
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -78,7 +82,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(746, 600);
+            this.ClientSize = new System.Drawing.Size(1088, 723);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox_preRead);
